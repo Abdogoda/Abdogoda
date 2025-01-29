@@ -86,13 +86,13 @@
 
 <br clear="both">
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdogoda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&order=2" height="250" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdogoda.Abdogoda&left_color=darkgreen&right_color=aqua&left_text=Profile%20Views"  />
 </div>
 
