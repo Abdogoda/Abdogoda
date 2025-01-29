@@ -1,8 +1,5 @@
 <br clear="both">
-
-<div align="center">
-  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gif-banner%2F929630361081%2F&psig=AOvVaw3RQy62I45hm1oRf7j5seR4&ust=1738252856498000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiM8MzRppuLAxUoXkEAHRVUERAQjRx6BAgAEBg"  />
-</div>
+![87f3f1425b217691da645e97dbb50d55](https://github.com/user-attachments/assets/8468bc8f-8f95-41bd-aa01-0b76e3d7868d)
 
 ###
 
