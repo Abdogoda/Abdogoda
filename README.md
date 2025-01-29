@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm a Dedicated and skilled Software Engineer with a passion for creating dynamic and user-friendly web applications. Committed to delivering high-quality code, meeting deadlines, and continuously expanding my technical skills to stay at the forefront of industry trends.<br><br>I graduated from the Modern Academy of Engineering and Technology in Maadi in August 2024 as a software engineer, and I have been working since then on developing my skills to become a professional software engineer, inshallah.<br><br>📚 I'm currently learning Backend Technologies.<br>🔗 You can see my portfolio from here: https://abdogoda.github.io/AG <br>🔗 You can contact me through: abdogoda0a@gmail.com</p>
+<p align="left">I'm a Dedicated and skilled Software Engineer with a passion for creating dynamic and user-friendly web applications. Committed to delivering high-quality code, meeting deadlines, and continuously expanding my technical skills to stay at the forefront of industry trends.<br><br>I graduated from the Modern Academy of Engineering and Technology in Maadi in August 2024 as a software engineer, and I have been working since then on developing my skills to become a professional software engineer, inshallah.<br><br>📚 I'm currently learning Backend Technologies.<br>🔗 You can see my portfolio from here: https://abdogoda.github.io/AG <br>📩 You can contact me through: abdogoda0a@gmail.com</p>
 
 ###
 
