@@ -1,9 +1,8 @@
 <br clear="both">
 
-<div>
-  <img height="200" src="https://github.com/user-attachments/assets/bea3645f-ee2f-4f60-9c71-80210c162b65"  />
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/ecab2a33-d584-4586-ab05-7566322bdd6e"  />
 </div>
-
 
 ###
 
@@ -29,11 +28,11 @@
   <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com/users/691442954665197579" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
-  </a>
   <a href="https://www.youtube.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/users/691442954665197579" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="discord logo"  />
   </a>
   <a href="https://x.com/abdogoda0a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="twitter logo"  />
@@ -80,6 +79,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
@@ -93,7 +98,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdogoda.Abdogoda&left_color=darkgreen&right_color=aqua&left_text=Profile%20Views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abdogoda.Abdogoda&left_color=darkslategrey&right_color=aqua&left_text=Profile%20Views"  />
 </div>
 
 ###
