@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fideas%2Fcoding-gif-banner%2F929630361081%2F&psig=AOvVaw3RQy62I45hm1oRf7j5seR4&ust=1738252856498000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiM8MzRppuLAxUoXkEAHRVUERAQjRx6BAgAEBg"  />
 </div>
 
 ###
