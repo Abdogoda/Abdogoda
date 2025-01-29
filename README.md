@@ -1,4 +1,7 @@
-![87f3f1425b217691da645e97dbb50d55](https://github.com/user-attachments/assets/d6551429-cf5b-4158-92cf-356aab9b5ab8)
+![snow_banner_o](https://github.com/user-attachments/assets/3c91fd45-aba8-403c-93b4-129c44e67cbb)
+
+###
+
 <h1 align="left">Hey There 👋 What's up?</h1>
 
 ###
