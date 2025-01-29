@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div>
-  <img height="200" src="https://github.com/user-attachments/assets/dba6d7ad-c106-45b0-a050-f05626db06d2"  />
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
@@ -10,8 +10,7 @@
 
 ###
 
-<h3 align="left">My name is Abdulrhman Goda and I'm a Software Engineer, from Egypt.</h4>
-<br>
+<h3 align="left">My name is Abdulrhman Goda and I'm a Software Engineer, from Egypt.</h3>
 
 ###
 
@@ -19,14 +18,14 @@
 
 ###
 
-<p align="left">I'm a Dedicated and skilled Software Engineer with a passion for creating dynamic and user-friendly web applications. Committed to delivering high-quality code, meeting deadlines, and continuously expanding my technical skills to stay at the forefront of industry trends.<br><br>I graduated from the Modern Academy of Engineering and Technology in Maadi in August 2024 as a software engineer, and I have been working since then on developing my skills to become a professional software engineer, inshallah.<br><br>📚 I'm currently learning Backend Technologies.<br>🔗 You can see my portfolio from here: https://abdogoda.github.io/AG <br>📩 You can contact me through: abdogoda0a@gmail.com</p>
+<p align="left">I'm a Dedicated and skilled Software Engineer with a passion for creating dynamic and user-friendly web applications. Committed to delivering high-quality code, meeting deadlines, and continuously expanding my technical skills to stay at the forefront of industry trends.<br><br>I graduated from Modern Academy for Engineering and Technology in Maadi in August 2024 as a software engineer, and I have been working since then on developing my skills to become a professional software engineer inshallah.<br><br>📚 I'm currently learning Backend Technologies.<br>🔗 You can see my portfolio from here: https://abdogoda.github.io/AG <br>📩 You can contact me through: abdogoda0a@gmail.com</p>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-   <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
+  <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/" target="_blank">
@@ -93,7 +92,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdogoda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=vue-dark&hide_border=true&order=2" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdogoda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdogoda&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=vue-dark&hide_border=true&order=2" height="120" alt="languages graph"  />
 </div>
 
 ###
