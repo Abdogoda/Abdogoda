@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div align="center">
+<div>
   <img height="200" src="https://github.com/user-attachments/assets/dba6d7ad-c106-45b0-a050-f05626db06d2"  />
 </div>
 
