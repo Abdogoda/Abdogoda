@@ -38,6 +38,8 @@
   <a href="https://x.com/abdogoda0a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="twitter logo"  />
   </a>
+
+ <a target="_blank" href="https://twitter.com/https://x.com/abdogoda0a" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a>
 </div>
 
 ###
