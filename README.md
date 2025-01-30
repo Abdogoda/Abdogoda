@@ -1,4 +1,4 @@
-![snow_banner_o](https://github.com/user-attachments/assets/3c91fd45-aba8-403c-93b4-129c44e67cbb)
+![snow_banner_o](banner.jpg)
 
 ###
 
