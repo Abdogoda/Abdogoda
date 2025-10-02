@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/" target="_blank">
+  <a href="https://youtube.com/@abdulrhman-goda" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="37" alt="youtube logo"  />
   </a>
   <a href="https://discord.com/users/691442954665197579" target="_blank">
