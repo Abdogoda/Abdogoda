@@ -3,7 +3,7 @@
 <h1 align="center">Hey there 👋 I'm Abdulrhman Goda</h1>
 
 <h3 align="center">
-Software Engineer | Backend-Focused
+Software Engineer | Full stack web developer
 </h3>
 
 <p align="center">
