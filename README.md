@@ -1,24 +1,37 @@
 ![snow_banner_o](banner.jpg)
 
-###
+<h1 align="center">Hey there 👋 I'm Abdulrhman Goda</h1>
 
-<h1 align="left">Hey There 👋 What's up?</h1>
+<h3 align="center">
+Software Engineer | Backend-Focused
+</h3>
 
-###
+<p align="center">
+I build scalable, maintainable, and user-focused web applications.
+</p>
 
-<h3 align="left">My name is Abdulrhman Goda and I'm a Software Engineer, from Egypt.</h3>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+I'm a **dedicated Software Engineer** with a strong interest in **backend development and system design**.  
+I enjoy turning complex problems into clean, efficient, and reliable solutions.
 
-###
+- 🎓 **B.Sc. in Software Engineering** — Modern Academy for Engineering & Technology (Maadi), Aug 2024  
+- 🚀 Continuously improving my skills to become a **professional software engineer**
+- 🧠 Strong believer in **clean code, good architecture, and continuous learning**
+- ☕ I learn by building, breaking, and rebuilding things
 
-<p align="left">I'm a Dedicated and skilled Software Engineer with a passion for creating dynamic and user-friendly web applications. Committed to delivering high-quality code, meeting deadlines, and continuously expanding my technical skills to stay at the forefront of industry trends.<br><br>I graduated from Modern Academy for Engineering and Technology in Maadi in August 2024 as a software engineer, and I have been working since then on developing my skills to become a professional software engineer inshallah.<br><br>📚 I'm currently learning Backend Technologies.<br>🔗 You can see my portfolio from here: https://abdogoda.github.io/AG <br>📩 You can contact me through: abdogoda0a@gmail.com</p>
+> *“Code quality is not optional — it’s a responsibility.”*
 
-###
+---
 
-<br clear="both">
+## 🔗 Portfolio & Contact
+
+- 🌐 **Portfolio:** https://abdogoda.github.io/AG  
+- 📩 **Email:** abdogoda0a@gmail.com  
+
+---
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
@@ -35,11 +48,15 @@
   </a>
 </div>
 
-###
+<p align="center">
+  <a href="./Abdulrhman_Goda_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## 🚀 I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
