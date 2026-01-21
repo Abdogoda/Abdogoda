@@ -31,7 +31,6 @@ I enjoy turning complex problems into clean, efficient, and reliable solutions.
 - 🌐 **Portfolio:** https://abdogoda.github.io/AG  
 - 📩 **Email:** abdogoda0a@gmail.com  
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrhman-goda-57a20b202/" target="_blank">
