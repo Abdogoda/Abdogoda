@@ -49,7 +49,7 @@ I enjoy turning complex problems into clean, efficient, and reliable solutions.
 </div>
 
 <p align="center">
-  <a href="./Abdulrhman_Goda_CV.pdf" download>
+  <a href="https://drive.google.com/file/d/1Zu-FlounnTgwp5xkjx6fDb2Vjhl7ajMO/view?usp=drivesdk" download>
     <img src="https://img.shields.io/badge/Download%20CV-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
   </a>
 </p>
@@ -58,7 +58,7 @@ I enjoy turning complex problems into clean, efficient, and reliable solutions.
 
 ## 🚀 I code with
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
@@ -98,6 +98,8 @@ I enjoy turning complex problems into clean, efficient, and reliable solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
