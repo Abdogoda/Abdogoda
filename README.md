@@ -103,6 +103,10 @@ I enjoy turning complex problems into clean, efficient, and reliable solutions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdogoda&layout=compact&theme=tokyonight&hide_border=true&card_width=500)
+
 ###
 
 <div align="center">
