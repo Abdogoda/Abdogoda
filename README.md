@@ -1,4 +1,4 @@
-![snow_banner_o](IMG_20260122_212328.jpg)
+![snow_banner_o](banner.jpg)
 
 <h1 align="center">Hey there 👋 I'm Abdulrhman Goda</h1>
 
