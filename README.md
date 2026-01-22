@@ -17,7 +17,7 @@ I build scalable, maintainable, and user-focused web applications.
 I'm a **dedicated Software Engineer** with a strong interest in **backend development and system design**.  
 I enjoy turning complex problems into clean, efficient, and reliable solutions.
 
-- 🎓 **B.Sc. in Software Engineering** — Modern Academy for Engineering & Technology (Maadi), Aug 2024  
+- 🎓 **B.Sc. in Software Engineering** — Modern Academy for Engineering & Technology (Maadi), Aug 2024 with **GPA 3.45** 
 - 🚀 Continuously improving my skills to become a **professional software engineer**
 - 🧠 Strong believer in **clean code, good architecture, and continuous learning**
 - ☕ I learn by building, breaking, and rebuilding things
